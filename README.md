@@ -60,7 +60,7 @@ isolation, least-privilege IAM, and zero static credentials.
 
 ## 🏅 Certifications
 
-- **HashiCorp Certified: Terraform Associate (004)** — HashiCorp, Aug 2026
+- **HashiCorp Certified: Terraform Associate (004)** — HashiCorp, Aug 2026 [Verify](https://www.credly.com/badges/71b756d9-f4b8-41b0-96ba-1c938ac7f14c/public_url)
 - **Google Associate Cloud Engineer** — Google Cloud, Jun 2026 · [Verify](https://www.credly.com/badges/d5fb3178-7fdd-4a2f-8232-2607c6dc6aac)
 - **EF SET English Certificate — C1 Advanced** (70/100)
 
